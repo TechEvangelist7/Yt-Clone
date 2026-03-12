@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.arrowParens": "always",
+  "files.autoSave": "onFocusChange",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  "html.format.indentHandlebars": true,
+  "html.format.indentInnerHtml": true,
+  "html.format.templating": true
+}
